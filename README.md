@@ -45,9 +45,9 @@ Apasionado por transformar datos en soluciones inteligentes y construir software
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santvz6&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Santiago" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=santvz6&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Santiago" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santvz6&layout=compact&theme=tokyonight&hide_progress=false" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=santvz6&layout=compact&theme=tokyonight&hide_progress=false" alt="Lenguajes más usados" />
 </p>
 
 ---
