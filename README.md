@@ -1,16 +1,61 @@
-## Hi there 👋
+# ¡Hola! Soy Santiago Álvarez Geanta 👋 
 
-<!--
-**santvz6/santvz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://vignette.wikia.nocookie.net/the-flash-fanon/images/4/4c/Flash_Logo.png/revision/latest?cb=20160213161313" width="100" />
+</p>
 
-Here are some ideas to get you started:
+### 🤖 Estudiante de Ingeniería en IA @ Universidad de Alicante
+Apasionado por transformar datos en soluciones inteligentes y construir software que marque la diferencia. No solo estudio la teoría, me "ensucio las manos" desarrollando desde arquitecturas de IA hasta apps móviles con recomendación inteligente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí
+
+- 🎓 **Formación:** Cursando 3º de Grado en Ingeniería en Inteligencia Artificial.
+- 🏆 **Logros:** 3er Puesto en el **Facephi Challenge 2026**.
+- 💡 **Intereses:** IA aplicada, Machine Learning, Cloud Computing (AWS) y Ciencia de Datos.
+- 🌱 **Aprendiendo:** Optimizando despliegues en la nube y profundizando en Reinforcement Learning.
+- ⚡ **Perfil:** Autodidacta, proactivo y orientado a la resolución de problemas complejos.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+**Librerías & Frameworks:** Pandas, NumPy, Matplotlib, Flask, FastAPI, PyTorch, MediaPipe, Ursina, Pygame.
+
+---
+
+### 📂 Proyectos Destacados
+
+* **🎵 Music AI App:** Aplicación móvil en Java con sistemas de recomendación multimodelo (género/sentimiento) y creación de listas mediante reconocimiento de imágenes.
+* **🤖 RL Environments:** Desarrollo de entornos reproducibles donde agentes aprenden mediante **Reinforcement Learning**.
+* **🎮 Game Dev & Vision:** Juegos de plataformas en Pygame y simuladores de conducción en Ursina integrados con **MediaPipe** para control por visión.
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santvz6&show_icons=true&theme=tokyonight" alt="Stats de Santiago" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santvz6&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
+
+---
+
+### 📫 Contacto
+
+<p align="left">
+<a href="mailto:sant.alvz84@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/tu-usuario-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+*📍 San Vicente del Raspeig, Alicante*
