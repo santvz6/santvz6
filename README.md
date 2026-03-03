@@ -1,7 +1,8 @@
 # ¡Hola! Soy Santiago Álvarez Geanta 👋 
 
 <p align="center">
-  <img src="https://vignette.wikia.nocookie.net/the-flash-fanon/images/4/4c/Flash_Logo.png/revision/latest?cb=20160213161313" width="100" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="0" /> 
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="100" />
 </p>
 
 ### 🤖 Estudiante de Ingeniería en IA @ Universidad de Alicante
