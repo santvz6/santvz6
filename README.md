@@ -55,7 +55,7 @@ Apasionado por transformar datos en soluciones inteligentes y construir software
 ### 📫 Contacto
 
 <p align="left">
-<a href="mailto:sant.alvz84@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="sant.alvz84@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/santiago05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
