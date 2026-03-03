@@ -6,7 +6,7 @@
 </p>
 
 ### 🤖 Estudiante de Ingeniería en IA @ Universidad de Alicante
-Apasionado por transformar datos en soluciones inteligentes y construir software que marque la diferencia. No solo estudio la teoría, me "ensucio las manos" desarrollando desde arquitecturas de IA hasta apps móviles con recomendación inteligente.
+Apasionado por transformar datos en soluciones inteligentes y construir software que marque la diferencia. No solo estudio la teoría, me *ensucio las manos* desarrollando desde arquitecturas de IA hasta apps móviles con recomendación inteligente.
 
 ---
 
