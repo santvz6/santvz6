@@ -12,7 +12,7 @@ Apasionado por transformar datos en soluciones inteligentes y construir software
 
 ### 🚀 Sobre mí
 
-- 🎓 **Formación:** Cursando 3º de Grado en Ingeniería en Inteligencia Artificial.
+- 🎓 **Formación:** Cursando el Grado en Ingeniería en Inteligencia Artificial.
 - 🏆 **Logros:** 3er Puesto en el **Facephi Challenge 2026**.
 - 💡 **Intereses:** IA aplicada, Machine Learning, Cloud Computing (AWS) y Ciencia de Datos.
 - 🌱 **Aprendiendo:** Optimizando despliegues en la nube y profundizando en Reinforcement Learning.
